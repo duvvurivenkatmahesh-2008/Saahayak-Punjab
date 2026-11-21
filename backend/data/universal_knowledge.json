@@ -1,0 +1,308 @@
+{
+  "domains": [
+    {
+      "id": "agri_mandi",
+      "name": "Agriculture & Mandis",
+      "name_pa": "ਖੇਤੀਬਾੜੀ ਅਤੇ ਮੰਡੀਆਂ",
+      "badge": "AGRI-MANDI",
+      "color": "#10B981",
+      "source_authority": "Punjab Mandi Board (Enam / Agmarknet)",
+      "records": [
+        {
+          "id": "mandi_khanna_wheat",
+          "commodity": "Wheat (ਕਣਕ - Kanak)",
+          "mandi": "Khanna Mandi, District Ludhiana",
+          "district": "Ludhiana",
+          "modal_price": 2425,
+          "min_price": 2380,
+          "max_price": 2470,
+          "msp": 2275,
+          "unit": "₹ per Quintal",
+          "arbitrage_tip": "Nearby Sirhind Mandi (Fatehgarh Sahib) is quoting ₹2,490/qtl (+₹65 higher) for grain moisture under 12%.",
+          "moisture_limit": "Max 12% moisture permissible for full rate.",
+          "arrival_status": "Heavy arrivals (18,400 quintals today). Lifting speed 82%.",
+          "helpline": "Punjab Mandi Board Control Room: 0172-5101640",
+          "keywords": ["khanna mandi", "kanak rate", "wheat price", "khanna", "kanak", "gehu", "ludhiana mandi", "fasal rate", "mandi bhav"],
+          "punjabi_summary": "ਖੰਨਾ ਮੰਡੀ ਵਿੱਚ ਅੱਜ ਕਣਕ (Wheat) ਦਾ ਮਾਡਲ ਭਾਅ ₹2,425 ਪ੍ਰਤੀ ਕੁਇੰਟਲ ਹੈ (ਘੱਟੋ-ਘੱਟ ₹2,380, ਵੱਧ ਤੋਂ ਵੱਧ ₹2,470)। ਸਰਕਾਰੀ MSP ₹2,275 ਤੋਂ ਇਹ ₹150 ਉੱਤੇ ਵਿਕ ਰਹੀ ਹੈ। ਨੇੜਲੀ ਸਰਹਿੰਦ ਮੰਡੀ ਵਿੱਚ ₹2,490 ਦਾ ਭਾਅ ਚੱਲ ਰਿਹਾ ਹੈ। ਦਾਣਿਆਂ ਵਿੱਚ ਨਮੀ 12% ਤੋਂ ਘੱਟ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
+          "roman_punjabi": "Khanna mandi vich ajj kanak da modal rate ₹2,425 per quintal hai (min ₹2,380, max ₹2,470). MSP ₹2,275 nalo eh wadh hai. Sirhind mandi vich ₹2,490 mil reha hai. Nami 12% to ghat rakho.",
+          "english_summary": "In Khanna Mandi, today's modal price for Wheat is ₹2,425/quintal (Min: ₹2,380, Max: ₹2,470), which is ₹150 above MSP (₹2,275). Nearby Sirhind Mandi offers ₹2,490/qtl for moisture <12%."
+        },
+        {
+          "id": "mandi_jalandhar_potato",
+          "commodity": "Potato (ਆਲੂ - Aloo Pukhraj & Jyoti)",
+          "mandi": "Jalandhar Maqsudan Mandi",
+          "district": "Jalandhar",
+          "modal_price": 1150,
+          "min_price": 950,
+          "max_price": 1320,
+          "msp": "Open Market (No MSP)",
+          "unit": "₹ per Quintal",
+          "arbitrage_tip": "Amritsar Vallah Mandi is paying ₹1,240/qtl (+₹90 higher) for medium/large washed table potatoes.",
+          "arrival_status": "Fresh winter crop arriving. 8,200 bags unloaded.",
+          "helpline": "Jalandhar Mandi Secretary: 0181-2204523",
+          "keywords": ["jalandhar mandi", "aloo rate", "potato price", "maqsudan", "jalandhar", "aloo", "batata", "potato"],
+          "punjabi_summary": "ਜਲੰਧਰ ਮਕਸੂਦਾਂ ਮੰਡੀ ਵਿੱਚ ਅੱਜ ਆਲੂ ਦਾ ਮਾਡਲ ਭਾਅ ₹1,150 ਪ੍ਰਤੀ ਕੁਇੰਟਲ (ਲਗਭਗ ₹11.50 ਪ੍ਰਤੀ ਕਿਲੋ) ਹੈ। ਵਧੀਆ ਛਾਂਟੀ ਵਾਲੇ ਆਲੂ ਅੰਮ੍ਰਿਤਸਰ ਵੱਲਾ ਮੰਡੀ ਵਿੱਚ ₹1,240 ਤੱਕ ਵਿਕ ਰਹੇ ਹਨ।",
+          "roman_punjabi": "Jalandhar Maqsudan mandi vich ajj aloo da modal rate ₹1,150 per quintal hai. Amritsar Vallah mandi vich ₹1,240 tak rate mil reha hai.",
+          "english_summary": "In Jalandhar Maqsudan Mandi, the modal price of Potato is ₹1,150/quintal (~₹11.50/kg). Graded potatoes are fetching up to ₹1,240/qtl in Amritsar Vallah Mandi."
+        },
+        {
+          "id": "mandi_amritsar_basmati",
+          "commodity": "Basmati Paddy (ਬਾਸਮਤੀ 1121 & 1509)",
+          "mandi": "Bhagtanwala / Vallah Mandi, Amritsar",
+          "district": "Amritsar",
+          "modal_price": 3850,
+          "min_price": 3600,
+          "max_price": 4120,
+          "msp": "Open Market (Export Demand)",
+          "unit": "₹ per Quintal",
+          "arbitrage_tip": "Tarn Taran Mandi is quoting ₹3,920/qtl for Basmati 1121 with moisture under 14%.",
+          "arrival_status": "Strong private exporter bidding active.",
+          "helpline": "Amritsar Market Committee: 0183-2586711",
+          "keywords": ["amritsar mandi", "basmati rate", "paddy price", "jhona", "basmati 1121", "vallah", "bhagtanwala", "chawal rate"],
+          "punjabi_summary": "ਅੰਮ੍ਰਿਤਸਰ ਮੰਡੀ ਵਿੱਚ ਬਾਸਮਤੀ 1121 ਦਾ ਭਾਅ ₹3,850 ਪ੍ਰਤੀ ਕੁਇੰਟਲ ਚੱਲ ਰਿਹਾ ਹੈ। ਉੱਤਮ ਕੁਆਲਿਟੀ ਦਾ ਮਾਲ ₹4,120 ਤੱਕ ਵਿਕ ਰਿਹਾ ਹੈ। ਤਰਨ ਤਾਰਨ ਮੰਡੀ ਵਿੱਚ ₹3,920 ਦਾ ਰੇਟ ਹੈ।",
+          "roman_punjabi": "Amritsar mandi vich Basmati 1121 da rate ₹3,850 per quintal hai, te wadiya maal ₹4,120 tak ja reha hai.",
+          "english_summary": "In Amritsar Mandi, Basmati 1121 modal rate is ₹3,850/quintal, reaching up to ₹4,120/qtl for premium export-grade lots."
+        },
+        {
+          "id": "mandi_bathinda_cotton",
+          "commodity": "Cotton / Narma (ਨਰਮਾ)",
+          "mandi": "Bathinda Main Cotton Yard",
+          "district": "Bathinda",
+          "modal_price": 7180,
+          "min_price": 6800,
+          "max_price": 7450,
+          "msp": 7020,
+          "unit": "₹ per Quintal",
+          "arbitrage_tip": "Abohar Mandi (Fazilka) is paying ₹7,310/qtl for medium staple narma.",
+          "arrival_status": "Cotton Corporation of India (CCI) procurement counter open.",
+          "helpline": "Bathinda Mandi Officer: 0164-2211985",
+          "keywords": ["bathinda mandi", "narma rate", "cotton price", "kapas", "narma", "bathinda", "abohar mandi"],
+          "punjabi_summary": "ਬਠਿੰਡਾ ਕਾਟਨ ਯਾਰਡ ਵਿੱਚ ਨਰਮੇ ਦਾ ਭਾਅ ₹7,180 ਪ੍ਰਤੀ ਕੁਇੰਟਲ ਹੈ, ਜੋ ਸਰਕਾਰੀ MSP ₹7,020 ਤੋਂ ਵੱਧ ਹੈ। ਅਬੋਹਰ ਮੰਡੀ ਵਿੱਚ ₹7,310 ਤੱਕ ਦਾ ਭਾਅ ਮਿਲ ਰਿਹਾ ਹੈ।",
+          "roman_punjabi": "Bathinda yard vich narme da rate ₹7,180 per quintal hai. Abohar mandi vich ₹7,310 tak mil reha hai.",
+          "english_summary": "In Bathinda Cotton Yard, Narma is trading at a modal price of ₹7,180/quintal, higher than the MSP of ₹7,020."
+        }
+      ]
+    },
+    {
+      "id": "govt_welfare",
+      "name": "Punjab Govt Schemes & Pensions",
+      "name_pa": "ਸਰਕਾਰੀ ਸਕੀਮਾਂ ਅਤੇ ਪੈਨਸ਼ਨਾਂ",
+      "badge": "GOVT-WELFARE",
+      "color": "#06B6D4",
+      "source_authority": "Department of Social Security, Women & Child Development, Punjab",
+      "records": [
+        {
+          "id": "scheme_shagun_ashirwad",
+          "name": "Shagun Scheme (ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ - Ashirwad)",
+          "benefit_amount": "₹51,000 Direct Bank Transfer",
+          "target_beneficiary": "Daughters of SC, BC, Christian, Muslim and Economically Weaker Section (EWS) families",
+          "eligibility": "1. Punjab domicile. 2. Bride must be 18+ years old. 3. Total annual family income must be less than ₹32,790 per year.",
+          "required_documents": [
+            "Bride & Groom Aadhaar Cards",
+            "Punjab Domicile / Residence Certificate",
+            "Caste / Category Certificate (SC/BC/EWS)",
+            "Age Proof of Bride (10th marksheet or Birth Certificate showing 18+)",
+            "Income Certificate (Issued by Tehsildar or Sarpanch/MC recommendation)",
+            "Bank Passbook copy (Bridal account with Aadhaar-linked DBT)",
+            "Marriage Certificate or Gurdwara/Temple Marriage Registration"
+          ],
+          "timeline": "Apply up to 30 days before the wedding or within 30 days after the wedding.",
+          "application_portal": "Apply online at edistrict.punjab.gov.in or any nearby Sewa Kendra.",
+          "helpline": "Welfare Dept Helpline: 0172-2608746 / Sewa Kendra Helpline 1076",
+          "keywords": ["shagun scheme", "ashirwad scheme", "kuri da vyah", "marriage grant", "51000", "shagan", "dhi da viah", "shagun documents", "punjab shagun"],
+          "punjabi_summary": "ਪੰਜਾਬ ਸ਼ਗਨ (ਆਸ਼ੀਰਵਾਦ) ਸਕੀਮ ਤਹਿਤ ਲੜਕੀ ਦੇ ਵਿਆਹ ਲਈ ₹51,000 ਦੀ ਸਹਾਇਤਾ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ। ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼: ਲੜਕੀ ਅਤੇ ਲੜਕੇ ਦਾ ਆਧਾਰ ਕਾਰਡ, ਪੰਜਾਬ ਰਿਹਾਇਸ਼ ਸਰਟੀਫਿਕੇਟ, ਜਾਤੀ ਸਰਟੀਫਿਕੇਟ (SC/BC/EWS), ਉਮਰ ਦਾ ਸਬੂਤ (18 ਸਾਲ ਤੋਂ ਵੱਧ), ਆਮਦਨ ਸਰਟੀਫਿਕੇਟ (ਸਾਲਾਨਾ ₹32,790 ਤੋਂ ਘੱਟ), ਅਤੇ ਬੈਂਕ ਖਾਤਾ। ਵਿਆਹ ਤੋਂ 30 ਦਿਨ ਪਹਿਲਾਂ ਜਾਂ 30 ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਨੇੜਲੇ ਸੇਵਾ ਕੇਂਦਰ ਜਾਂ edistrict.punjab.gov.in 'ਤੇ ਅਪਲਾਈ ਕਰੋ।",
+          "roman_punjabi": "Punjab Shagun (Ashirwad) scheme vich kuri de viah layi ₹51,000 milde han. Documents chahide ne: Aadhaar card, Punjab residence proof, Caste cert, Bride 18+ age proof, Income cert (< ₹32,790/saal), te Bank passbook. Sewa Kendra jaake apply karo.",
+          "english_summary": "Under Punjab's Shagun (Ashirwad) Scheme, ₹51,000 financial assistance is provided for daughters' marriage of SC/BC/EWS families. Requirements: Aadhaar cards, Punjab domicile, caste cert, bride age proof (18+), income cert (<₹32,790/yr), and bank account. Apply at Sewa Kendra or edistrict.punjab.gov.in within 30 days."
+        },
+        {
+          "id": "scheme_old_age_pension",
+          "name": "Punjab Old Age Pension (ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ)",
+          "benefit_amount": "₹1,500 per month directly into bank account",
+          "target_beneficiary": "Senior Citizens (Men aged 65+, Women aged 58+)",
+          "eligibility": "1. Permanent resident of Punjab. 2. Men 65 years or above, Women 58 years or above. 3. Family annual income must not exceed ₹60,000. 4. Land holding less than 2.5 acres (canal irrigated) or 5 acres (unirrigated).",
+          "required_documents": [
+            "Aadhaar Card (with correct Date of Birth)",
+            "Voter ID Card or Matriculation Certificate for Age Proof",
+            "Punjab Residence Proof / Ration Card",
+            "Income self-declaration / Tehsildar verified income slip (< ₹60,000)",
+            "Bank Account Passbook (single holder, Aadhaar seeded)",
+            "Two Passport-size Photographs"
+          ],
+          "application_portal": "Online at sdm.punjab.gov.in or offline form at District Social Security Office / Sewa Kendra.",
+          "helpline": "Social Security Dept: 0172-740411 / Toll-Free 1076",
+          "keywords": ["old age pension", "budhapa pension", "pension documents", "punjab pension", "1500 pension", "senior citizen pension", "bujurg pension"],
+          "punjabi_summary": "ਪੰਜਾਬ ਸਰਕਾਰ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਤਹਿਤ ਹਰ ਮਹੀਨੇ ₹1,500 ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਭੇਜਦੀ ਹੈ। ਯੋਗਤਾ: ਪੁਰਸ਼ਾਂ ਲਈ 65 ਸਾਲ ਅਤੇ ਔਰਤਾਂ ਲਈ 58 ਸਾਲ ਦੀ ਉਮਰ। ਪਰਿਵਾਰ ਦੀ ਸਾਲਾਨਾ ਆਮਦਨ ₹60,000 ਤੋਂ ਘੱਟ ਹੋਵੇ। ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼: ਆਧਾਰ ਕਾਰਡ, ਉਮਰ ਦਾ ਪੱਕਾ ਸਬੂਤ (ਵੋਟਰ ਕਾਰਡ/ਜਨਮ ਸਰਟੀਫਿਕੇਟ), ਬੈਂਕ ਪਾਸਬੁੱਕ, ਰਿਹਾਇਸ਼ੀ ਪਰੂਫ਼ ਅਤੇ ਆਮਦਨ ਹਲਫ਼ਨਾਮਾ। ਨੇੜਲੇ ਸੇਵਾ ਕੇਂਦਰ ਵਿੱਚ ਜਮ੍ਹਾ ਕਰਵਾਓ।",
+          "roman_punjabi": "Punjab sarkar budhapa pension layi har mahine ₹1,500 dindi hai. Umar mard layi 65 saal te aurat layi 58 saal. Parivar di aamdan ₹60,000 to ghat honi chahidi hai. Documents: Aadhaar, Age proof, Bank passbook, te Sewa Kendra application.",
+          "english_summary": "Punjab Old Age Pension provides ₹1,500/month for senior citizens (Men 65+, Women 58+). Income must be under ₹60,000/yr. Required: Aadhaar card, age proof, bank passbook, and residence certificate. Apply at any Sewa Kendra."
+        },
+        {
+          "id": "scheme_ayushman_sarbat_sehat",
+          "name": "Ayushman Bharat - Mukh Mantri Sehat Bima Yojana (ਸਰਬੱਤ ਸਿਹਤ ਬੀਮਾ)",
+          "benefit_amount": "₹5 Lakh Free Cashless Hospital Treatment per family per year",
+          "target_beneficiary": "Farmers (J-Form holders), Smart Ration Card holders, Small traders (Excise registered), Construction workers, Accredited journalists",
+          "eligibility": "Families listed in SECC 2011 or registered J-Form farmers with Punjab Mandi Board.",
+          "required_documents": [
+            "Aadhaar Card of all family members",
+            "Smart Ration Card (NFSA) or Mandi Board J-Form",
+            "Active Mobile Number for OTP Verification"
+          ],
+          "application_portal": "E-card generated instantly at any Empanelled Hospital or Sewa Kendra for ₹30.",
+          "helpline": "Toll-Free Health Helpline: 104 / Ayushman Helpline: 14555",
+          "keywords": ["sarbat sehat bima", "ayushman card", "sehat card", "5 lakh bima", "health insurance punjab", "ayushman punjab", "mukh mantri sehat"],
+          "punjabi_summary": "ਮੁੱਖ ਮੰਤਰੀ ਸਰਬੱਤ ਸਿਹਤ ਬੀਮਾ ਯੋਜਨਾ ਤਹਿਤ ਪੰਜਾਬ ਦੇ ਹਰੇਕ ਯੋਗ ਪਰਿਵਾਰ ਨੂੰ ਸਾਲਾਨਾ ₹5 ਲੱਖ ਤੱਕ ਦਾ ਮੁਫ਼ਤ ਇਲਾਜ ਮਿਲਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਜੇ-ਫਾਰਮ ਧਾਰਕ ਕਿਸਾਨ, ਰਾਸ਼ਨ ਕਾਰਡ ਧਾਰਕ ਅਤੇ ਛੋਟੇ ਵਪਾਰੀ ਸ਼ਾਮਲ ਹਨ। ਆਧਾਰ ਕਾਰਡ ਅਤੇ ਜੇ-ਫਾਰਮ ਜਾਂ ਰਾਸ਼ਨ ਕਾਰਡ ਲੈ ਕੇ ਕਿਸੇ ਵੀ ਸਰਕਾਰੀ ਹਸਪਤਾਲ ਜਾਂ ਸੇਵਾ ਕੇਂਦਰ ਤੋਂ ਕਾਰਡ ਬਣਵਾਓ। ਹੈਲਪਲਾਈਨ 104 ਹੈ।",
+          "roman_punjabi": "Sarbat Sehat Bima Yojana vich salana ₹5 Lakh da cashless ilaj milda hai. J-Form holder kisan te Ration card holder eligible han. Aadhaar card leke Sewa Kendra jaao. Helpline 104 hai.",
+          "english_summary": "Under Mukh Mantri Sehat Bima Yojana, eligible Punjab families get ₹5 Lakh/year cashless hospitalization across 900+ empanelled hospitals. Farmers with J-Forms and Ration Card holders can get cards at Sewa Kendras or Govt hospitals. Helpline: 104."
+        }
+      ]
+    },
+    {
+      "id": "health_directory",
+      "name": "Healthcare & Civil Hospitals",
+      "name_pa": "ਸਿਹਤ ਸੇਵਾਵਾਂ ਅਤੇ ਸਿਵਲ ਹਸਪਤਾਲ",
+      "badge": "HEALTH-DIRECTORY",
+      "color": "#EF4444",
+      "source_authority": "Punjab Health Systems Corporation & Dept of Health & Family Welfare",
+      "records": [
+        {
+          "id": "hosp_ludhiana_civil",
+          "hospital_name": "District Civil Hospital, Ludhiana (ਭਗਵਾਨ ਮਹਾਵੀਰ ਸਿਵਲ ਹਸਪਤਾਲ)",
+          "location": "Near Field Ganj, Jail Road, Civil Lines, Ludhiana",
+          "opd_timings": "Summer: 8:00 AM to 2:00 PM | Winter: 9:00 AM to 3:00 PM (Monday to Saturday)",
+          "emergency_services": "24 Hours Open (Emergency Trauma Ward, Blood Bank & Labor Room)",
+          "contact_number": "0161-2444193 / 0161-2444194",
+          "emergency_toll_free": "108 (Free Ambulance) | 104 (Medical Advice Helpline)",
+          "facilities": "Dialysis Unit, CT Scan, Ultrasound, De-addiction Center (OOAT), Free Generic Medicine Store, Janani Suraksha Ward",
+          "doctor_specialties": "General Medicine, Orthopedics, Pediatrics, Gynecology, Eye, ENT, Skin",
+          "keywords": ["ludhiana civil hospital", "ludhiana hospital timing", "opd timing ludhiana", "emergency number ludhiana", "ludhiana doctor", "civil hospital", "ludhiana emergency"],
+          "punjabi_summary": "ਲੁਧਿਆਣਾ ਜ਼ਿਲ੍ਹਾ ਸਿਵਲ ਹਸਪਤਾਲ (ਫੀਲਡ ਗੰਜ ਨੇੜੇ) ਦੀ ਓ.ਪੀ.ਡੀ. (OPD) ਦਾ ਸਮਾਂ ਸਵੇਰੇ 8:00 ਵਜੇ ਤੋਂ ਦੁਪਹਿਰ 2:00 ਵਜੇ ਤੱਕ (ਸੋਮਵਾਰ ਤੋਂ ਸ਼ਨੀਵਾਰ) ਹੈ। ਐਮਰਜੈਂਸੀ ਵਾਰਡ 24 ਘੰਟੇ ਖੁੱਲ੍ਹਾ ਰਹਿੰਦਾ ਹੈ। ਹਸਪਤਾਲ ਦਾ ਫ਼ੋਨ ਨੰਬਰ 0161-2444193 ਹੈ। ਐਂਬੂਲੈਂਸ ਲਈ ਮੁਫ਼ਤ ਨੰਬਰ 108 ਅਤੇ ਸਿਹਤ ਸਲਾਹ ਲਈ 104 ਡਾਇਲ ਕਰੋ।",
+          "roman_punjabi": "Ludhiana Civil Hospital (Field Ganj) di OPD timing savere 8:00 to dupahir 2:00 baje tak hai. Emergency 24 ghante khuli hai. Hospital number: 0161-2444193. Ambulance layi 108 te helpline layi 104 dial karo.",
+          "english_summary": "Ludhiana District Civil Hospital OPD operates from 8:00 AM to 2:00 PM (Mon-Sat). Emergency trauma and labor room are open 24x7. Landline: 0161-2444193. Free ambulance: 108, medical helpline: 104."
+        },
+        {
+          "id": "hosp_amritsar_civil",
+          "hospital_name": "Jallianwala Bagh Memorial Civil Hospital, Amritsar",
+          "location": "Circular Road, Near Bus Stand, Amritsar",
+          "opd_timings": "8:00 AM to 2:00 PM (Mon-Sat)",
+          "emergency_services": "24x7 Emergency Trauma Unit & Mother and Child Healthcare Wing (MCH)",
+          "contact_number": "0183-2545550 / 0183-2558775",
+          "emergency_toll_free": "108 / 104",
+          "facilities": "Special Newborn Care Unit (SNCU), Advanced Blood Storage, Ayushman Wellness Desk",
+          "doctor_specialties": "Cardiology, Internal Medicine, Surgery, Pediatrics, Orthopedics",
+          "keywords": ["amritsar civil hospital", "amritsar hospital", "jallianwala bagh hospital", "amritsar opd timing", "amritsar emergency"],
+          "punjabi_summary": "ਅੰਮ੍ਰਿਤਸਰ ਜਲਿਆਂਵਾਲਾ ਬਾਗ ਮੈਮੋਰੀਅਲ ਸਿਵਲ ਹਸਪਤਾਲ ਦੀ ਓ.ਪੀ.ਡੀ. ਸਵੇਰੇ 8:00 ਵਜੇ ਤੋਂ 2:00 ਵਜੇ ਤੱਕ ਲੱਗਦੀ ਹੈ। ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ 24 ਘੰਟੇ ਚੱਲਦੀਆਂ ਹਨ। ਸੰਪਰਕ ਨੰਬਰ 0183-2545550 ਹੈ। ਮੁਫ਼ਤ ਐਂਬੂਲੈਂਸ 108 'ਤੇ ਮਿਲਦੀ ਹੈ।",
+          "roman_punjabi": "Amritsar Civil Hospital di OPD subah 8:00 baje to 2:00 baje tak hai. Emergency 24 ghante khuli hai. Contact: 0183-2545550, Ambulance: 108.",
+          "english_summary": "Amritsar Civil Hospital OPD timings are 8:00 AM to 2:00 PM. Emergency services run 24x7. Phone: 0183-2545550. Ambulance: 108."
+        },
+        {
+          "id": "hosp_patiala_rajindra",
+          "hospital_name": "Government Rajindra Hospital & Medical College, Patiala",
+          "location": "Sangrur Road, Patiala",
+          "opd_timings": "8:30 AM to 2:00 PM",
+          "emergency_services": "24x7 Tertiary Care Trauma Center & ICU",
+          "contact_number": "0175-2212018 / 0175-2212365",
+          "emergency_toll_free": "108 / 104",
+          "facilities": "Super-specialty cardiology, neurology, nephrology dialysis center, burn unit, cancer care wing",
+          "doctor_specialties": "All super-specialties and clinical disciplines",
+          "keywords": ["patiala rajindra hospital", "rajindra hospital opd", "patiala civil hospital", "patiala emergency", "patiala doctor"],
+          "punjabi_summary": "ਪਟਿਆਲਾ ਦੇ ਸਰਕਾਰੀ ਰਜਿੰਦਰਾ ਹਸਪਤਾਲ ਵਿੱਚ ਸੁਪਰ-ਸਪੈਸ਼ਲਿਟੀ ਓ.ਪੀ.ਡੀ. ਸਵੇਰੇ 8:30 ਤੋਂ ਦੁਪਹਿਰ 2:00 ਵਜੇ ਤੱਕ ਹੁੰਦੀ ਹੈ। ਐਮਰਜੈਂਸੀ ਅਤੇ ਟਰੌਮਾ ਸੈਂਟਰ 24 ਘੰਟੇ ਉਪਲਬਧ ਹਨ। ਸੰਪਰਕ ਨੰਬਰ 0175-2212018 ਹੈ।",
+          "roman_punjabi": "Patiala Rajindra Hospital di OPD 8:30 am to 2:00 pm hai. 24x7 Emergency & Trauma center available hai. Phone: 0175-2212018.",
+          "english_summary": "Patiala Government Rajindra Hospital OPD operates from 8:30 AM to 2:00 PM with 24x7 tertiary trauma and ICU facilities. Phone: 0175-2212018."
+        }
+      ]
+    },
+    {
+      "id": "edu_scholarships",
+      "name": "Education & Scholarships",
+      "name_pa": "ਸਿੱਖਿਆ ਅਤੇ ਵਜ਼ੀਫ਼ੇ",
+      "badge": "EDU-SCHOLARSHIPS",
+      "color": "#8B5CF6",
+      "source_authority": "Department of Higher Education & Welfare of SC/BC, Punjab",
+      "records": [
+        {
+          "id": "sch_dr_ambedkar_post_matric",
+          "name": "Dr. BR Ambedkar Post-Matric Scholarship Scheme (ਪੋਸਟ-ਮੈਟ੍ਰਿਕ ਸਕਾਲਰਸ਼ਿਪ)",
+          "benefit": "100% Non-refundable Tuition Fee Waiver + Monthly Maintenance Allowance up to ₹1,200/month",
+          "target_audience": "SC & ST students pursuing higher education (Class 11 to Ph.D., Engineering, Medical, Poly, ITI)",
+          "eligibility": "1. Punjab resident. 2. Belonging to SC/ST category. 3. Total family annual income from all sources must not exceed ₹2,50,000 per annum.",
+          "required_documents": [
+            "Aadhaar Card (linked to active bank account)",
+            "Caste Certificate issued by Tehsildar",
+            "Latest Income Certificate (issued on or after April 1st of current financial year)",
+            "10th / Last Examination Passed Marksheet",
+            "College/Institute Admission Fee Receipt",
+            "Freeship Card generated from portal"
+          ],
+          "deadline_and_portal": "Apply online at scholarship.punjab.gov.in. Applications open in August and the standard deadline is extended up to 31st December / 31st January for verification.",
+          "helpline": "Scholarship Helpline: 0172-5095325 / Email: postmatricscell@gmail.com",
+          "keywords": ["post matric scholarship", "scholarship last date", "punjab scholarship", "dr ambedkar scholarship", "sc scholarship", "freeship card", "college wazifa", "vazifa"],
+          "punjabi_summary": "ਡਾ. ਬੀ.ਆਰ. ਅੰਬੇਡਕਰ ਪੋਸਟ-ਮੈਟ੍ਰਿਕ ਵਜ਼ੀਫ਼ਾ ਸਕੀਮ ਤਹਿਤ ਅਨੁਸੂਚਿਤ ਜਾਤੀ (SC) ਦੇ ਵਿਦਿਆਰਥੀਆਂ ਦੀ 100% ਕਾਲਜ ਫੀਸ ਮੁਆਫ਼ ਹੁੰਦੀ ਹੈ ਅਤੇ ਖਰਚਾ ਭੱਤਾ ਮਿਲਦਾ ਹੈ। ਪਰਿਵਾਰ ਦੀ ਸਾਲਾਨਾ ਆਮਦਨ ₹2.5 ਲੱਖ ਤੋਂ ਘੱਟ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ। ਪੋਰਟਲ scholarship.punjab.gov.in 'ਤੇ ਆਨਲਾਈਨ ਫਰੀਸ਼ਿਪ ਕਾਰਡ ਲਈ ਅਪਲਾਈ ਕਰੋ। ਆਖ਼ਰੀ ਤਾਰੀਖ਼ ਆਮ ਤੌਰ 'ਤੇ 31 ਜਨਵਰੀ ਤੱਕ ਵਧਾਈ ਜਾਂਦੀ ਹੈ। ਹੈਲਪਲਾਈਨ 0172-5095325 ਹੈ।",
+          "roman_punjabi": "Dr. Ambedkar Post-Matric Scholarship vich SC students di 100% fees maaf hundi hai. Parivar di salana aamdan ₹2.5 Lakh to ghat honi chahidi hai. scholarship.punjab.gov.in te Freeship Card banwao. Helpline: 0172-5095325.",
+          "english_summary": "Dr. BR Ambedkar Post-Matric Scholarship provides 100% fee exemption and maintenance allowance for SC students with family income under ₹2.5 Lakh. Apply online at scholarship.punjab.gov.in. Helpline: 0172-5095325."
+        },
+        {
+          "id": "job_ghar_ghar_rozgar",
+          "name": "Punjab Ghar Ghar Rozgar & DBEE (ਘਰ ਘਰ ਰੋਜ਼ਗਾਰ ਮਿਸ਼ਨ)",
+          "benefit": "Free skill training, Mega Rozgar Melas, foreign employment counselling, coaching for government exams",
+          "target_audience": "Unemployed youth of Punjab (10th pass, 12th pass, graduates, ITI/Diploma)",
+          "district_offices": "District Bureau of Employment and Enterprises (DBEE) in all 23 Punjab districts",
+          "portal": "Register free at pgrkam.com (Punjab Ghar Ghar Rozgar & Karobar Mission)",
+          "helpline": "Toll-Free Helpline: 0172-5011186 / District Employment Office",
+          "keywords": ["ghar ghar rozgar", "punjab job", "sarkari naukri", "rozgar mela", "dbee punjab", "employment bureau", "pgrkam", "naukri"],
+          "punjabi_summary": "ਪੰਜਾਬ ਘਰ ਘਰ ਰੋਜ਼ਗਾਰ ਮਿਸ਼ਨ ਤਹਿਤ ਹਰੇਕ ਜ਼ਿਲ੍ਹੇ ਦੇ ਡੀ.ਬੀ.ਈ.ਈ. (DBEE) ਦਫ਼ਤਰ ਵਿੱਚ ਮੁਫ਼ਤ ਰੋਜ਼ਗਾਰ ਮੇਲੇ ਅਤੇ ਮੁਕਾਬਲਾ ਪ੍ਰੀਖਿਆਵਾਂ ਦੀ ਕੋਚਿੰਗ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ। ਬੇਰੁਜ਼ਗਾਰ ਨੌਜਵਾਨ pgrkam.com 'ਤੇ ਆਪਣਾ ਮੁਫ਼ਤ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਕਰ ਸਕਦੇ ਹਨ। ਸੰਪਰਕ ਹੈਲਪਲਾਈਨ 0172-5011186 ਹੈ।",
+          "roman_punjabi": "Punjab Ghar Ghar Rozgar mission vich har zille de DBEE office vich Rozgar Mele lagde ne. pgrkam.com te free register karo. Helpline 0172-5011186 hai.",
+          "english_summary": "Punjab Ghar Ghar Rozgar mission organizes free job fairs and skill coaching across all 23 DBEE district offices. Register at pgrkam.com or call 0172-5011186."
+        }
+      ]
+    },
+    {
+      "id": "transport_utilities",
+      "name": "Transport, Power & Weather",
+      "name_pa": "ਆਵਾਜਾਈ, ਬਿਜਲੀ ਅਤੇ ਮੌਸਮ",
+      "badge": "TRANSPORT-WEATHER",
+      "color": "#F59E0B",
+      "source_authority": "Punjab State Power Corporation Ltd & PRTC / Punbus & IMD Chandigarh",
+      "records": [
+        {
+          "id": "power_pspcl_grievance",
+          "service": "PSPCL Electricity Complaint & Outage (ਬਿਜਲੀ ਸ਼ਿਕਾਇਤ 1912)",
+          "helpline": "1912 (Toll-Free 24x7 IVR) | WhatsApp: 96461-19120",
+          "sms_service": "Send 'NO SUPPLY [10-digit Account No]' to 1912",
+          "details": "Domestic consumers receive 300 free units per month (600 units bimonthly) under Punjab Govt power subsidy. For transformer faults or wire breakdown, instant token generation is done on 1912.",
+          "keywords": ["bijli complaint", "pspcl complaint", "1912", "electricity helpline", "light chali gayi", "power cut punjab", "free 300 units", "bijli bill"],
+          "punjabi_summary": "ਪੰਜਾਬ ਵਿੱਚ ਬਿਜਲੀ ਗੁੱਲ ਹੋਣ ਜਾਂ ਟਰਾਂਸਫਾਰਮਰ ਖ਼ਰਾਬੀ ਦੀ ਸ਼ਿਕਾਇਤ ਲਈ 1912 'ਤੇ 24 ਘੰਟੇ ਫ਼ੋਨ ਕਰੋ ਜਾਂ ਆਪਣੇ ਮੋਬਾਈਲ ਤੋਂ WhatsApp ਨੰਬਰ 96461-19120 'ਤੇ ਮੈਸੇਜ ਭੇਜੋ। ਪੰਜਾਬ ਸਰਕਾਰ ਵੱਲੋਂ ਘਰੇਲੂ ਖਪਤਕਾਰਾਂ ਨੂੰ ਹਰ ਮਹੀਨੇ 300 ਯੂਨਿਟ (ਦੋ ਮਹੀਨਿਆਂ ਦੇ 600 ਯੂਨਿਟ) ਮੁਫ਼ਤ ਬਿਜਲੀ ਮਿਲ ਰਹੀ ਹੈ।",
+          "roman_punjabi": "Bijli band hon te 1912 dial karo ya WhatsApp 96461-19120 te message bhejo. Gharelu consumers layi 300 units har mahine free han.",
+          "english_summary": "For power cuts or breakdowns in Punjab, call 24x7 toll-free 1912 or WhatsApp 96461-19120. Domestic consumers get 300 units/month free power under the Punjab subsidy."
+        },
+        {
+          "id": "trans_prtc_punbus",
+          "service": "PRTC & PUNBUS Long Route Bus Enquiries (ਪਨਬੱਸ ਤੇ ਪੀ.ਆਰ.ਟੀ.ਸੀ.)",
+          "helpline": "PRTC Patiala: 0175-2215687 | Punbus Chandigarh: 0172-2704023 | Amritsar Bus Stand: 0183-2551734",
+          "special_rule": "Free bus travel for all women residents of Punjab in ordinary state government buses (PRTC, Punbus, CCB) with valid Punjab Aadhaar or Voter ID.",
+          "booking_portal": "Online booking at punbusonline.com",
+          "keywords": ["punbus helpline", "prtc enquiry", "bus timing punjab", "free bus travel women", "chandigarh to amritsar bus", "prtc phone number"],
+          "punjabi_summary": "ਪੰਜਾਬ ਦੀਆਂ ਸਾਰੀਆਂ ਔਰਤਾਂ ਲਈ ਸਰਕਾਰੀ ਸਾਧਾਰਨ ਬੱਸਾਂ (ਪਨਬੱਸ ਅਤੇ ਪੀ.ਆਰ.ਟੀ.ਸੀ.) ਵਿੱਚ ਸਫ਼ਰ ਬਿਲਕੁਲ ਮੁਫ਼ਤ ਹੈ। ਆਪਣਾ ਆਧਾਰ ਕਾਰਡ ਨਾਲ ਰੱਖੋ। ਪੀ.ਆਰ.ਟੀ.ਸੀ. ਪਟਿਆਲਾ ਪੁੱਛਗਿੱਛ ਨੰਬਰ 0175-2215687 ਹੈ ਅਤੇ ਚੰਡੀਗੜ੍ਹ ਬੱਸ ਸਟੈਂਡ 0172-2704023 ਹੈ।",
+          "roman_punjabi": "Punjab di har aurat layi Punbus te PRTC ordinary buses vich safar bilkul free hai (Aadhaar card dikhao). PRTC Enquiry: 0175-2215687, Chandigarh: 0172-2704023.",
+          "english_summary": "Free bus travel is available for all Punjab women on ordinary state-run Punbus and PRTC buses upon showing Punjab Aadhaar. PRTC Enquiry: 0175-2215687, Punbus: 0172-2704023."
+        },
+        {
+          "id": "weather_punjab_agro",
+          "service": "Punjab Agro-Weather & Stubble/Spray Advisory (ਮੌਸਮ ਚੇਤਾਵਨੀ)",
+          "forecast": "Clear to partly cloudy across Central & Malwa belt. Western disturbance expected over northern sub-mountainous districts (Gurdaspur, Pathankot, Hoshiarpur) with light rain/breezes.",
+          "farming_guidance": "Do not spray fungicide during high wind velocity (>15 km/h). Maintain irrigation in late-sown wheat.",
+          "source": "IMD Regional Meteorological Centre, Chandigarh & PAU Ludhiana",
+          "helpline": "PAU Farmer Advisory Cell: 0161-2401960",
+          "keywords": ["punjab weather", "mausam alert", "barish punjab", "weather forecast", "kisan advisory", "pau ludhiana weather"],
+          "punjabi_summary": "ਮੌਸਮ ਵਿਭਾਗ ਅਨੁਸਾਰ ਪੰਜਾਬ ਦੇ ਮੱਧ ਅਤੇ ਮਾਲਵਾ ਇਲਾਕਿਆਂ ਵਿੱਚ ਧੁੱਪ ਰਹੇਗੀ, ਜਦਕਿ ਪਠਾਨਕੋਟ, ਗੁਰਦਾਸਪੁਰ ਅਤੇ ਹੁਸ਼ਿਆਰਪੁਰ ਵਿੱਚ ਹਲਕੀ ਬਾਰਿਸ਼ ਦੇ ਆਸਾਰ ਹਨ। ਕਿਸਾਨ ਵੀਰ ਤੇਜ਼ ਹਵਾਵਾਂ ਵੇਲੇ ਕਣਕ 'ਤੇ ਸਪਰੇਅ ਨਾ ਕਰਨ। ਪੀ.ਏ.ਯੂ. ਲੁਧਿਆਣਾ ਕਿਸਾਨ ਸਲਾਹਕਾਰ ਨੰਬਰ 0161-2401960 ਹੈ।",
+          "roman_punjabi": "Mausam vibhag anusaar Punjab vich dhupp rahegi te shivalik belt vich halki barish ho sakdi hai. Tez hava vich spray na karo. PAU Helpline: 0161-2401960.",
+          "english_summary": "IMD reports dry weather across central Punjab with light showers possible in foothill districts (Pathankot, Gurdaspur). PAU advises farmers to postpone spraying during windy conditions. PAU Helpline: 0161-2401960."
+        }
+      ]
+    }
+  ],
+  "anti_hallucination_rules": {
+    "strict_threshold": 72.0,
+    "fallback_message_pa": "ਮਾਫ਼ ਕਰਨਾ, ਇਹ ਸਵਾਲ ਪੰਜਾਬ ਸਰਕਾਰ ਜਾਂ ਪ੍ਰਮਾਣਿਤ ਖੇਤਰੀ ਡੇਟਾਬੇਸ ਵਿੱਚ ਦਰਜ ਨਹੀਂ ਹੈ। ਸਾਹਾਇਕ AI ਸਿਰਫ਼ 100% ਪ੍ਰਮਾਣਿਤ ਡੇਟਾ (ਮੰਡੀ ਭਾਅ, ਸਰਕਾਰੀ ਸਕੀਮਾਂ, ਹਸਪਤਾਲ, ਸਕਾਲਰਸ਼ਿਪ, ਬਿਜਲੀ/ਆਵਾਜਾਈ) ਹੀ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ ਤਾਂ ਜੋ ਕੋਈ ਗ਼ਲਤ ਜਾਣਕਾਰੀ ਨਾ ਮਿਲੇ। ਕਿਰਪਾ ਕਰਕੇ ਪੰਜਾਬ ਦੇ ਕਿਸੇ ਵੀ ਪ੍ਰਮਾਣਿਤ ਵਿਸ਼ੇ ਬਾਰੇ ਪੁੱਛੋ।",
+    "fallback_message_roman": "Maaf karna, eh sawaal Punjab Sarkar ya verified database vich darj nahi hai. Sahaayak AI sirf 100% verified data hi deliver karda hai taan jo koi galat jankari na mile. Kirpa karke Punjab related topic baare puchho.",
+    "fallback_message_en": "I cannot verify this information in the authorized Punjab databases. Sahaayak AI strictly blocks ungrounded hallucinations to protect citizens from false advice. Please ask a verified query related to Agriculture, Govt Welfare, Healthcare, Scholarships, or Utilities."
+  }
+}
