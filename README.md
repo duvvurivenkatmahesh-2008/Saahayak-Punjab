@@ -1,16 +1,65 @@
-# Sahaayak AI Punjab (ਸਹਾਇਕ AI)
-### Universal, Multi-Domain Punjabi Voice & Vision Grounding Engine
-**Zero Hallucination Civic & Farm AI for Feature Phones (1800-180-1551) & Smartphone Super-App**
+# 🌾 Sahaayak AI Punjab (ਸਹਾਇਕ AI)
+### Universal Multi-Domain Punjabi Voice & Vision AI for Basic Keypad Phones & Smartphones
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-10B981?style=for-the-badge)](https://your-live-deployment-link.vercel.app)
+[![Backend API](https://img.shields.io/badge/FastAPI-Grounded%20Engine-06B6D4?style=for-the-badge)](https://your-backend-link.onrender.com/docs)
+[![License: MIT](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](LICENSE)
+
+> **One Grounded AI Brain. Two Accessible Doors.**  
+> Bridging India's rural digital divide by delivering verified, real-time agricultural, healthcare, welfare, education, and civic intelligence in **Punjabi (ਪੰਜਾਬੀ)**—to both a **₹1,000 basic keypad phone (via Toll-Free IVR)** and a **modern smartphone (via Voice + Camera Vision)**.
 
 ---
 
-## 🌟 Executive Overview
-**Sahaayak AI Punjab (ਸਹਾਇਕ AI)** is a production-grade, multi-domain Punjabi conversational and multimodal vision AI engine designed to solve the digital divide across Punjab's 30+ million citizens and farmers.
+## 🚨 The Problem
+1. **The Hardware & Literacy Divide:** Over 40% of rural citizens still rely on basic keypad feature phones with zero internet access, locking them out of modern mobile apps and portals.
+2. **The AI Hallucination Risk:** Standard LLMs frequently invent crop mandi prices, medical helpline numbers, and government scheme eligibility rules—errors that directly cost rural families money and critical time.
+3. **Siloed Single-Purpose Tools:** Existing helplines are fragmented across agriculture, healthcare, scholarships, and utility services.
 
-It operates on an **"Anti-Hallucination Universal Engine + Two Doors"** architecture:
-1. **Door 1 — Basic Keypad Feature Phone (IVR `1800-180-1551`):** A tactile Nokia-style simulator allowing anyone with a ₹999 basic phone (or no internet) to speak in Punjabi, dial DTMF numbers (`1` = Mandi, `2` = Schemes, `3` = Health), hear grounded spoken answers, and receive verified SMS receipts.
-2. **Door 2 — Smartphone Super-App:** A voice-first, low-literacy friendly mobile app with a pulsing Gurmukhi mic button, dynamic comparison cards, and a **Universal Camera Vision Scanner** (powered by Gemini 2.5 Flash / grounded PAU diagnostics) for crop disease, medicine strips, government notices, and soil health cards.
-3. **Universal Data Hub:** A real-time data ingestion portal proving that the engine can pull **ANY** data: live URLs, REST APIs, JSON feeds, or raw document circulars, indexing them into the `rapidfuzz` vector within milliseconds.
+---
+
+## 💡 Our Solution: "One Brain, Two Doors"
+
+**Sahaayak AI Punjab** connects a **Universal Anti-Hallucination Grounding Engine** to two inclusive interfaces:
+
+* **📞 Door 1 — Toll-Free Voice IVR (`1800-180-1551`) for Basic Keypad Phones:**
+  * No smartphone, no internet, and no reading required.
+  * Supports natural Punjabi voice queries, **DTMF keypad fallbacks** (`Press 1 for Mandis`, `2 for Govt Schemes`, `3 for Health`), **Caller-ID Memory**, and automatic **post-call SMS summaries**.
+* **📱 Door 2 — Multimodal Citizen Super-App for Smartphones:**
+  * Voice-first Punjabi interface paired with rich visual cards, **Smart Mandi Arbitrage comparisons** (highlighting nearby mandis paying higher rates), **Offline Field Caching**, and a **Camera Vision Scanner** for diagnosing crop leaf diseases, reading medicine strips, or translating government notices aloud in Punjabi.
+* **🔌 Universal Data Hub (Dynamic Ingestion):**
+  * Not hardcoded to one domain—administrators can plug in **any live URL, JSON API, CSV, or policy document** in real time, making new data immediately queryable via voice across both channels.
+
+---
+
+## 🏗️ System Architecture
+
+```text
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         USER ACCESS CHANNELS                            │
+├───────────────────────────────────┬─────────────────────────────────────┤
+│   📞 Basic Keypad Feature Phone   │      📱 Smartphone Super-App        │
+│  • Toll-Free Voice Call (IVR)     │  • 1-Tap Punjabi Voice Assistant    │
+│  • DTMF Keypad Fallback (0-9)     │  • Camera Leaf / Document Scanner   │
+│  • Post-Call SMS Summary          │  • Offline-First Visual Cards       │
+└─────────────────┬─────────────────┴──────────────────┬──────────────────┘
+                  │                                    │
+                  ▼                                    ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                UNIFIED FASTAPI ORCHESTRATOR (/backend)                  │
+│  1. Punjabi Speech Layer   ──► Sarvam AI (Saaras STT & Bulbul TTS)      │
+│  2. Multimodal Vision      ──► Gemini 2.5 Flash (Leaf & Doc Analysis)   │
+│  3. Grounding & Guardrails ──► RapidFuzz Entity Matching + Confidence   │
+│                                Gating (Blocks <72% Unverified Queries)  │
+└───────────────────────────────────┬─────────────────────────────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                   UNIVERSAL KNOWLEDGE & DATA HUB                        │
+│  • Agmarknet Mandis & MSP    • Punjab Govt Welfare & Pension Schemes    │
+│  • District Hospitals & 108  • Scholarships, Jobs & Transport Helplines │
+│  • Live URL / API / CSV / Custom Knowledge Connectors                   │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
